@@ -65,7 +65,7 @@ setup(
     ],
     python_requires='>=3.6.*',
     install_requires=[
-        'pyside2==5.15.0',
+        'pyside2==5.15.1',
         'qtpy==1.9.0',
         'opencv-contrib-python-headless==4.4.0.46',
         'jinja2==2.11.2'
